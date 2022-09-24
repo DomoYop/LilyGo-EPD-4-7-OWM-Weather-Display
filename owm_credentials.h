@@ -11,9 +11,9 @@ const char server[] = "api.openweathermap.org";
 //http://api.openweathermap.org/data/2.5/weather?q=Melksham,UK&APPID=your_OWM_API_key&mode=json&units=metric&cnt=1
 
 //Set your location according to OWM locations
-String City             = "Voglans";                       // Your home city See: http://bulk.openweathermap.org/sample/
-String Latitude         = "45.627997";                     // Latitude of your location in decimal degrees
-String Longitude        = "5.899212";                      // Longitude of your location in decimal degrees
+String City             = "Bourg la Reine";                          // Your home city See: http://bulk.openweathermap.org/sample/
+String Latitude         = "48.7833";                         // Latitude of your location in decimal degrees
+String Longitude        = "2.3167";                         // Longitude of your location in decimal degrees
 String Language         = "FR";                            // NOTE: Only the weather description is translated by OWM
                                                            // Examples: Arabic (AR) Czech (CZ) English (EN) Greek (EL) Persian(Farsi) (FA) Galician (GL) Hungarian (HU) Japanese (JA)
                                                            // Korean (KR) Latvian (LA) Lithuanian (LT) Macedonian (MK) Slovak (SK) Slovenian (SL) Vietnamese (VI)
