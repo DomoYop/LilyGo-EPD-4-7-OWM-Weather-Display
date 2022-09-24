@@ -8,6 +8,8 @@ const String TXT_TEMPERATURES     = "Température";
 const String TXT_TEMPERATURE_C    = "Température (°C)";
 const String TXT_TEMPERATURE_F    = "Température (°F)";
 const String TXT_HUMIDITY_PERCENT = "Humidité (%)";
+const String TXT_FL = "ressenti";
+const String TXT_LOHI = "mini / Maxi";
 
 // Pressure
 const String TXT_PRESSURE         = "Pression";
