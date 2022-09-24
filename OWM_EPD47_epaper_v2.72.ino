@@ -16,7 +16,7 @@
 #include <SPI.h>                // In-built
 #include <time.h>               // In-built
 
-#include "owm_credentials.h"
+#include "owm_credentials_voglans.h"
 #include "forecast_record.h"
 // #include "lang.h"
 #include "lang_fr.h"
